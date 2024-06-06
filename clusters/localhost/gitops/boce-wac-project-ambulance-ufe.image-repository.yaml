@@ -1,7 +1,7 @@
 apiVersion: image.toolkit.fluxcd.io/v1beta2
 kind: ImageRepository
 metadata:
-  name: ambulance-ufe
+  name: boce-wac-project-ambulance-ufe
   namespace: wac-hospital
 spec:
   image: boriscernak/boce-wac-project-ambulance-ufe
