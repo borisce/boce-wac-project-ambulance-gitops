@@ -9,4 +9,4 @@ images:
   newTag: 1.7.3 # {"$imagepolicy": "wac-hospital:ufe-controller:tag"}
 - name: boriscernak/boce-wac-project-ambulance-wl-webapi
   newName: boriscernak/boce-wac-project-ambulance-wl-webapi # {"$imagepolicy":  "wac-hospital:boce-wac-project-ambulance-webapi:name"}
-  newTag: main # {"$imagepolicy": "wac-hospital:boce-wac-project-ambulance-webapi:tag"}  
+  newTag: main.20240609.1656 # {"$imagepolicy": "wac-hospital:boce-wac-project-ambulance-webapi:tag"}  
