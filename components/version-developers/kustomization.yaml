@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: boriscernak/boce-wac-project-ambulance-wl-webapi
   newName: boriscernak/boce-wac-project-ambulance-wl-webapi # {"$imagepolicy":  "wac-hospital:boce-wac-project-ambulance-webapi:name"}
-  newTag: main # {"$imagepolicy": "wac-hospital:boce-wac-project-ambulance-webapi:tag"}
+  newTag: main.20240609.1924 # {"$imagepolicy": "wac-hospital:boce-wac-project-ambulance-webapi:tag"}
 - name: boriscernak/boce-wac-project-ambulance-ufe
   newName: boriscernak/boce-wac-project-ambulance-ufe # {"$imagepolicy":  "wac-hospital:boce-wac-project-ambulance-ufe:name"}
   newTag: main.20240610.1126 # {"$imagepolicy": "wac-hospital:boce-wac-project-ambulance-ufe:tag"}
