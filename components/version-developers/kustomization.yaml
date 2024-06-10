@@ -7,6 +7,3 @@ images:
 - name: milung/ufe-controller
   newName: milung/ufe-controller # {"$imagepolicy":  "wac-hospital:ufe-controller:name"}
   newTag: 1.7.3 # {"$imagepolicy": "wac-hospital:ufe-controller:tag"}
-- name: boriscernak/boce-wac-project-ambulance-wl-webapi
-  newName: boriscernak/boce-wac-project-ambulance-wl-webapi # {"$imagepolicy":  "wac-hospital:boce-wac-project-ambulance-webapi:name"}
-  newTag: main.20240609.1924 # {"$imagepolicy": "wac-hospital:boce-wac-project-ambulance-webapi:tag"}  

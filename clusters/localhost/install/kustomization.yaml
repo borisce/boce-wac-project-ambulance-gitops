@@ -10,3 +10,6 @@ commonLabels:
 
 resources:
 - ../../../apps/boce-wac-project-ambulance-ufe
+
+components:
+ - ../../../components/version-developers
