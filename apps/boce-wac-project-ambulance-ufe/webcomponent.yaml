@@ -10,7 +10,7 @@ spec:
     - element: boce-wac-project-login    # element, ktorý bude vložený na stránku
       attributes:
       - name: api-base
-        value: http://localhost:30081/api
+        value: http://localhost:5000/api
       path: boce-wac-project      # cesta, ktora sa zobrazi v address bare v prehliadaci, ked bude tento mikroFE aktívny
       title: Projekt WAC Boris Černák      # názov mikro aplikácie
       details: Portál pre pacientov kde môžu získať prehľad o svojich chorobách, uskutočnéných a plánovaných návštevách ambulancie.

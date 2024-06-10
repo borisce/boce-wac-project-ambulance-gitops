@@ -10,11 +10,3 @@ commonLabels:
 
 resources:
 - ../../../apps/boce-wac-project-ambulance-ufe
- - ../../../apps/boce-wac-project-ambulance-webapi
-
-components:
- - ../../../components/version-developers
- - https://github.com/borisce/boce-wac-project-ambulance-webapi//deployments/kustomize/components/mongodb
-
-patches:
- - path: patches/boce-wac-project-ambulance-webapi.service.yaml 
